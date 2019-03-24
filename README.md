@@ -63,7 +63,7 @@ E.g. A heater in control system theory view point, is the element that heats up 
   
 6. Architects should come up with their own technical map. What products to use for which areas, which products are compatible with their systems and their strategy for using certain products.
   
-### How tocommunicate to a variety of stakeholders
+### How to communicate to a variety of stakeholders
 Architects need to close the gap between technical knowledge and high-level business decision makers. They need to clearly communicate the trade-offs of technical decisions on business. 
 
 This is a vague checklist of how one should communicate in their documentation or presentations:
