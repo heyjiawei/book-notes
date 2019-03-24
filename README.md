@@ -90,9 +90,9 @@ Show them demos to get their attention. This will increase their chances of to l
 - Instead of relying on active discipline - demanding blind execution, mitigate this with passive obedience - let the people at the bottom do what is deem appropriate, adjust to the unforeseen circumstances without having to report back. This can be applied in production issues. Rather than asking for status reports every hourly interval when a production issue occurs, leave the team to fix the production issue and have them report back when they are done.
 
 To obtain actual control, you will need 3 elements:
-1. Enablement - let people do what they need to do first
-2. Autonomy - let people figure out how they can achieve their goals. Done at their level, it would have the shortest feedback cycle
-3. Timeline - set specific goals and provide reasonable timeline for them to achieve
+- Enablement - let people do what they need to do first
+- Autonomy - let people figure out how they can achieve their goals. Done at their level, it would have the shortest feedback cycle
+- Timeline - set specific goals and provide reasonable timeline for them to achieve
 
 2. The bad habit of building from bottom up
 - When many applications are built, they may have many reusable components. Rather than building these reusable components first, build only what you need first. Refactor common components later.
@@ -117,7 +117,7 @@ Agile is not:
   
 Agile is:
   - embracing the frequent change request in software development cycles
-
+  
 - Agile needs iron discipline and a lot of practice. An example of agile at work is the pit-stop guys at work in F1 race.
 - Agile works best in an environment that has solid deployment, testing tools and processes in place. It is not for everyone. Mimicking a portion of agile process does not make you run in 'agile'. Instead, it could be chaos in disguise.
 - Choosing to remain slow can increase the underlying chaos in your organisation. 
@@ -134,10 +134,25 @@ Agile is:
    
  2. Start embracing economies of speed ather than economies of scale.
  - Size can be an advantage but it makes an organisation slow. The slowness comes from the overhead of processes to be efficient. Economies of scale is overly simplistic as it ignores the cost of intermediate products or processes.
- Focusing on economies of scale can change an organisation values - to prioritise resource efficiency over customer efficiency.
+ - Focusing on economies of scale can change an organisation values - to prioritise resource efficiency over customer efficiency.
  - In a static environment, being large is good. In an environment of rapid change, economies of speed wins.
  - Don't focus merely on optimizing a step (processing efficiency), optimize the flow as well (flow efficiency)
  - Don't estimate the value of speed. The missed opportunities from delays can be much higher than the cost of development.
  - The cost of valuing predictability
+  - All projects in a corporate setting normally have estimates. Being pressured to keep to a timeline so as to manage things easier could cause the adverse effect: sandbagging.
+  - Sandbagging is the repeated overestimate of timeline so as to avoid criticism and avoid budget estimates cut.
+ - Switch to economies of speed by accepting that it could be less efficient. Usually, this change comes when IT drives business opportunities instead of being a cost center.
+ 
+ 3. Increase and maintain feedback loops
+ - Reduce feedback time by forming teams that span the vertical hierarchy.
+   - They should carry full responsibility from conceptualization to operations and refinement so as to form a 'you build it, you run it' attitude.
+   - Remove unnecessary synchronization points and have all decisions made within the project team.
+ - The challenge this is that it requires qualified staff, a compact team (preferably not more than 16), a willingness to collaborate across skill set and a low friction environment.
+ 
+ 4. Challenges getting to 'there'
+  - Beware of highest paid person opinion.
+  - Understand that innovation takes time. Disruptive technology may not beat existing / matured engines at its infancy stage, but when they surpass, they can threaten the company that didn't invest early.
+  - Change the mindset that required skill can be brought at will. It can't. Whatever you outsource, it is an opportunity cost and knowledge lost.
+  - Lastly, keep in mind that the digital reality may not be what you expect in the end. Some roles may be redefined and make some people unhappy. This can come in terms of steeper learning curves, more complexity, etc. Change is not about making people happy. It is about survival.
     
     
