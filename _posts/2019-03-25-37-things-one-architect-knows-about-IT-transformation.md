@@ -6,11 +6,6 @@ tags:
   - architect
 ---
 
-{% if post.tags.size > 0 %}
-Tag{% if post.tags.size > 1 %}s{% endif %}:
-{{ post.tags | sort | join: ", " }}
-{% endif %}
-
 ### The roles and qualities of an architect in a large enterprise
 
 1. What does an enterprise architect do?
