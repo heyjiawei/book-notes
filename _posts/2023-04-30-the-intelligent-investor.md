@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'The Intelligent Investor Book Summary'
+layout: default
 tags:
   - investment
   - stocks
