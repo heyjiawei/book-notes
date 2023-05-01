@@ -1,6 +1,7 @@
 ---
 layout: post
 title: '37 things one architect knows about IT Transformation'
+layout: default
 tags:
   - architect
 ---
