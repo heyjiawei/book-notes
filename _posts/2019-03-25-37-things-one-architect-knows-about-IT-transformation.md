@@ -5,8 +5,6 @@ tags:
   - architect
 ---
 
-## 37 things one architect knows about IT Transformation: A Chief Architect's Journey
-
 ### The roles and qualities of an architect in a large enterprise
 
 1. What does an enterprise architect do?
