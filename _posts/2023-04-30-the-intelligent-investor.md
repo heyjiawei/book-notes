@@ -9,6 +9,11 @@ tags:
   - graham
 ---
 
+{% if post.tags.size > 0 %}
+Tag{% if post.tags.size > 1 %}s{% endif %}:
+{{ post.tags | sort | join: ", " }}
+{% endif %}
+
 Sell to optimist. Buy from pessimist.
 
 The "Defensive" investor emphasize on mistake avoidance.
